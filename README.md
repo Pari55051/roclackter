@@ -7,7 +7,7 @@ this is quite simple in terms of features. made for doom-scrolling though variou
 
 ## Images
 ### Wiring
-![wiring][./images/wiring_diagram.png]
+![wiring](./images/wiring_diagram.png)
 
 ### Case
 ![case base](./images/case_base.png)
