@@ -12,6 +12,7 @@ this is quite simple in terms of features. made for doom-scrolling though variou
 ### Case
 ![case base](./images/case_base.png)
 ![case_top](./images/case_top.png)
+![case assembled](./images/case_assembled.png)
 > assembled version with all electronics could not be made since i could not find the 3d model for the rotary encoder board
 
 > will update more images once it is assembled
